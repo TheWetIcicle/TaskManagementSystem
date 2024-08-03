@@ -1,4 +1,4 @@
-//This is the User package, A User here is a user of the system, a User can have multiple Projects.
+//This is the User class, A User here is a user of the system, a User can have multiple Projects.
 
 package com.example.taskmanagement.databasemodel;
 

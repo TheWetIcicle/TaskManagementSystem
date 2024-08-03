@@ -1,4 +1,4 @@
-//This is the Task package, each Task has a few fields to fill in, and there are multiple Tasks that compose a Project.
+//This is the Task class, each Task has a few fields to fill in, and there are multiple Tasks that compose a Project.
 
 package com.example.taskmanagement.databasemodel;
 

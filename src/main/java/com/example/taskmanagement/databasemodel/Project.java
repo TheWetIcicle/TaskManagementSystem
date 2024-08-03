@@ -1,4 +1,4 @@
-//This is the Project package, a Project has multiple Tasks in it. There can be multiple Projects associated with a User.
+//This is the Project class, a Project has multiple Tasks in it. There can be multiple Projects associated with a User.
 
 package com.example.taskmanagement.databasemodel;
 
